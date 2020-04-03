@@ -1,0 +1,10 @@
+APScheduler
+werkzeug
+Flask
+requests
+lxml
+PyExecJS
+click
+gunicorn
+pymongo
+redis
